@@ -17,6 +17,7 @@
 * https://app.daily.dev/
 * https://evanwalter.dev/
 * https://simplenote.com/
+* https://bolzministries.com/
 
 ---
 ## 2022-11-02
