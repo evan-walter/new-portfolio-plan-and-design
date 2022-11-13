@@ -8,6 +8,7 @@
 ---
 ## inspirations
 
+* https://leerob.io/
 * https://vercel.com/
 * https://yangshuntay.com/
 * https://kentcdodds.com/
